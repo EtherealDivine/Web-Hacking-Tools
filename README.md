@@ -25,6 +25,8 @@
     <li><a href="https://hub.docker.com/r/koutto/jok3r/">Jok3r</a>: Jok3r is a framework that helps penetration testers with network infrastructure and web security assessments. Its goal is to automate as much as possible in order to quickly identify and exploit “low-hanging fruit” and “quick win” vulnerabilities on most common TCP/UDP services and most common web technologies (servers, CMS, languages…).</li>
     <li><a href="https://github.com/nahamsec/JSParser">JSParser</a>: A python 2.7 script using Tornado and JSBeautifier to parse relative URLs from JavaScript files. This is especially useful for discovering AJAX requests when performing security research or bug bounty hunting.</li>
     <li><a href="https://github.com/guelfoweb/knock">Knockpy</a>: Knockpy is a python tool designed to enumerate subdomains on a target domain through a word list. It is designed to scan for a DNS zone transfer and bypass the wildcard DNS record automatically, if it is enabled. Knockpy now supports queries to VirusTotal subdomains, you can set the API_KEY within the config.json file.</li>
+    <li><a href="https://github.com/projectdiscovery/katana">Katana</a>: Katana is tool written in Go and is a fast crawler focused on execution in automation
+pipelines offering both headless and non-headless crawling</li>
     <li><a href="https://github.com/nahamsec/lazyrecon">lazyrecon</a>: This is an assembled collection of tools for performing recon.</li>
     <li><a href="https://github.com/nahamsec/lazys3">lazys3</a>: A Ruby script to brute-force for AWS s3 buckets using different permutations.</li>
     <li><a href="https://github.com/robertdavidgraham/masscan">Masscan</a>: This is an Internet-scale port scanner. It can scan the entire Internet in under 6 minutes, transmitting 10 million packets per second, all from a single machine.</li>
@@ -53,6 +55,7 @@
     <li><a href="https://github.com/xmendez/wfuzz">Wfuzz</a>: Wfuzz has been created to facilitate the task in web applications assessments and it is based on a simple concept: it replaces any reference to the FUZZ keyword by the value of a given payload.</li>
     <li><a href="https://github.com/urbanadventurer/WhatWeb">Whatweb</a>: WhatWeb recognises web technologies including content management systems (CMS), blogging platforms, statistic/analytics packages, JavaScript libraries, web servers, and embedded devices. WhatWeb has over 1800 plugins, each to recognise something different. WhatWeb also identifies version numbers, email addresses, account IDs, web framework modules, SQL errors, and more.</li>
     <li><a href="https://github.com/wpscanteam/wpscan">Wpscan</a>: WPScan is a free (for non-commercial use) black box WordPress security scanner written for security professionals and bloggers to test the security of their sites.</li>
+    
   </ul>
 
   
